@@ -23,7 +23,7 @@ typedef enum
 
 } bc_sam_m8_event_t;
 
-//! @brief SHT20 instance
+//! @brief SAM M8 instance
 
 typedef struct bc_sam_m8_t bc_sam_m8_t;
 
