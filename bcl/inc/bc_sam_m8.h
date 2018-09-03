@@ -23,11 +23,15 @@ typedef enum
 
 } bc_sam_m8_event_t;
 
+//! @brief SHT20 instance
+
+typedef struct bc_sam_m8_t bc_sam_m8_t;
+
 //! @cond
 
-typedef void (bc_sam_m8_event_handler_t)(bc_sam_m8_event_t event, void *event_param);
+typedef void (bc_sam_m8_event_handler_t)(bc_sam_m8_t *, bc_sam_m8_event_t, void *);
 
-typedef struct
+struct bc_sam_m8_t
 {
     bc_i2c_channel_t _i2c;
 
@@ -41,7 +45,7 @@ typedef struct
 
     bc_scheduler_task_id_t _task_id;
 
-} bc_sam_m8_t;
+};
 
 //! @endcond
 
