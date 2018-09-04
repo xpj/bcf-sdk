@@ -5,7 +5,7 @@
 #include <bc_scheduler.h>
 
 //! @addtogroup bc_sam_m8 bc_sam_m8
-//! @brief Driver for SAM M8Q
+//! @brief Driver for SAM M8 module
 //! @{
 
 //! @brief Callback events
@@ -15,11 +15,14 @@ typedef enum
     //! @brief Error event
     BC_SAM_M8_EVENT_ERROR = 0,
     
+    //! @brief Abort event
+    BC_SAM_M8_EVENT_ABORT = 1,
+    
     //! @brief Update event
-    BC_SAM_M8_EVENT_UPDATE = 1,
+    BC_SAM_M8_EVENT_UPDATE = 2,
     
     //! @brief Timeout event
-    BC_SAM_M8_EVENT_TIMEOUT = 2
+    BC_SAM_M8_EVENT_TIMEOUT = 3
 
 } bc_sam_m8_event_t;
 
@@ -33,9 +36,11 @@ typedef void (bc_sam_m8_event_handler_t)(bc_sam_m8_t *, bc_sam_m8_event_t, void 
 
 struct bc_sam_m8_t
 {
+    // TODO Consider driver
+
     bc_i2c_channel_t _i2c;
 
-    uint8_t i2c_address;
+    uint8_t _i2c_address;
 
     bc_sam_m8_event_handler_t *_event_handler;
 
