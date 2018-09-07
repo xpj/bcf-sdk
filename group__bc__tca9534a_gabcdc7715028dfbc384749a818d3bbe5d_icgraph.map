@@ -1,0 +1,5 @@
+<map id="bc_tca9534a_read_pin" name="bc_tca9534a_read_pin">
+<area shape="rect" id="node2" href="$group__bc__module__sensor.html#ga79ad9d4e650bf7b2caf62bda713fddc9" title="Get pull&#45;up/pull&#45;down configuration for Sensor Module channel. " alt="" coords="206,5,389,32"/>
+<area shape="rect" id="node3" href="$group__bc__module__sensor.html#gaebcf126e49db2659e153bfe11c5a2b52" title="Get Sensor Module revision. " alt="" coords="219,57,375,98"/>
+<area shape="rect" id="node4" href="$group__bc__module__sensor.html#ga14043d8f0e22293928b3117b857f10b8" title="Set VDD On / Off. " alt="" coords="437,64,621,91"/>
+</map>

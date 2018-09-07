@@ -1,0 +1,6 @@
+<map id="bc_tca9534a_write_pin" name="bc_tca9534a_write_pin">
+<area shape="rect" id="node2" href="$group__bc__module__lcd.html#gae10ca89dd6fbf30994a1a25ce1964e9d" title="Lcd off. " alt="" coords="221,5,352,32"/>
+<area shape="rect" id="node3" href="$group__bc__module__lcd.html#gaf43b1a0418d6166b3431ab23361f5803" title="Lcd on. " alt="" coords="221,56,352,83"/>
+<area shape="rect" id="node4" href="$group__bc__module__sensor.html#gaebcf126e49db2659e153bfe11c5a2b52" title="Get Sensor Module revision. " alt="" coords="209,107,365,149"/>
+<area shape="rect" id="node5" href="$group__bc__module__sensor.html#ga14043d8f0e22293928b3117b857f10b8" title="Set VDD On / Off. " alt="" coords="413,115,597,141"/>
+</map>

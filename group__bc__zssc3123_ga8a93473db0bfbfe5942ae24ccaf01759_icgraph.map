@@ -1,0 +1,5 @@
+<map id="bc_zssc3123_measure" name="bc_zssc3123_measure">
+<area shape="rect" id="node2" href="$group__bc__zssc3123.html#ga6953bc50d935c2bf8f1e35541c82e45d" title="Set scan interval. " alt="" coords="211,49,381,90"/>
+<area shape="rect" id="node3" href="$group__bc__soil__sensor.html#gaeb43da12777dd542c11871f039b40e63" title="Set measurement interval for all sensors. " alt="" coords="467,5,605,61"/>
+<area shape="rect" id="node4" href="$group__bc__soil__sensor.html#gaef3d11a84de33c7ccc0d64da5d20fa77" title="Set measurement interval for moisture sensor. " alt="" coords="429,85,643,126"/>
+</map>

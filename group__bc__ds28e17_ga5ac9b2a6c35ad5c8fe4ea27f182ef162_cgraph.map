@@ -1,0 +1,7 @@
+<map id="bc_ds28e17_set_speed" name="bc_ds28e17_set_speed">
+<area shape="rect" id="node2" href="$group__bc__onewire.html#ga00b9f05b4be593fd343a605716a56508" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="487,5,611,32"/>
+<area shape="rect" id="node3" href="$group__bc__onewire.html#gaeb2baea72df8586c92601488237bc99e" title="Select device. " alt="" coords="484,107,615,133"/>
+<area shape="rect" id="node4" href="$group__bc__onewire.html#ga4d0d2814df622e67fde9ca3de5e981f7" title="Select device. " alt="" coords="260,157,383,184"/>
+<area shape="rect" id="node5" href="$group__bc__ds28e17.html#ga1a8d3b757a32410a7edce8de078b8f64" title="Enable Sleep Mode. " alt="" coords="214,56,429,83"/>
+<area shape="rect" id="node6" href="$group__bc__onewire.html#ga4bef467534683e1e5e612cac72d79333" title="Select device. " alt="" coords="477,56,621,83"/>
+</map>

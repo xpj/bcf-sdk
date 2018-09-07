@@ -1,0 +1,9 @@
+<map id="bc_soil_sensor_set_update_interval_all_sensors" name="bc_soil_sensor_set_update_interval_all_sensors">
+<area shape="rect" id="node2" href="$group__bc__tmp112.html#gaab18b8b8625b2d4d4272f4c0b6666153" title="Set measurement interval. " alt="" coords="199,41,356,83"/>
+<area shape="rect" id="node6" href="$group__bc__zssc3123.html#ga6953bc50d935c2bf8f1e35541c82e45d" title="Set scan interval. " alt="" coords="192,124,363,165"/>
+<area shape="rect" id="node3" href="$group__bc__scheduler.html#gade94244616617574eee859c0fb5df428" title="Schedule specified task to absolute tick. " alt="" coords="637,81,824,107"/>
+<area shape="rect" id="node4" href="$group__bc__scheduler.html#ga060b4fece6aff4a50c10f9f29416ee45" title="Schedule specified task to tick relative from current spin. " alt="" coords="411,30,589,57"/>
+<area shape="rect" id="node5" href="$group__bc__tmp112.html#ga80fd7dd719e8fd97dcb84d846a4b7249" title="Start measurement manually. " alt="" coords="429,81,571,107"/>
+<area shape="rect" id="node7" href="$group__bc__zssc3123.html#ga8a93473db0bfbfe5942ae24ccaf01759" title="Start measurement manually. " alt="" coords="422,182,578,209"/>
+<area shape="rect" id="node8" href="$group__bc__scheduler.html#ga46c874e6f1b363cf6851cfa8f837c398" title="Schedule specified task for immediate execution. " alt="" coords="650,182,811,209"/>
+</map>

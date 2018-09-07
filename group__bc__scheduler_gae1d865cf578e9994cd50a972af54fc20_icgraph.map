@@ -1,0 +1,8 @@
+<map id="bc_scheduler_unregister" name="bc_scheduler_unregister">
+<area shape="rect" id="node2" href="$group__bc__eeprom.html#ga29989e06ac20905f880ee918caa300eb" title="Cancel async write. " alt="" coords="216,5,389,32"/>
+<area shape="rect" id="node3" href="$group__bc__spirit.html#ga8b0acab78e46e0be268b9179cfe8236c" title="Deitialize. " alt="" coords="245,56,361,83"/>
+<area shape="rect" id="node4" href="$group__bc__tmp112.html#ga1b762397e6e999f56dd0e23c0af55669" title="Deinitialize TMP112. " alt="" coords="241,107,365,133"/>
+<area shape="rect" id="node5" href="$group__bc__uart.html#gaa8a2e6878cbadea6cd5fabdc6babf633" title="Cancel async reading. " alt="" coords="233,158,372,199"/>
+<area shape="rect" id="node7" href="$group__bc__zssc3123.html#gac6a7445c8a48afe54c889c730cdc5dd1" title="Deitialize ZSSC3123. " alt="" coords="234,224,371,251"/>
+<area shape="rect" id="node6" href="$group__bc__uart.html#gacfc4056c320d0babb3d6253e8c957e68" title="Deinitialize UART channel. " alt="" coords="438,165,541,192"/>
+</map>
